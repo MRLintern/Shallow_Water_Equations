@@ -3,7 +3,7 @@
 Application of the Shallow Water Equations to Oceanography & Planetary Atmospheres.
 
 ### Requirements
-* `MATLAB`. Version 2020b was used but it should matter which one you use
+* `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
 * `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB`
 
 ### Introduction
