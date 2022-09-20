@@ -20,6 +20,6 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
   
   `d(vh)/dt + d(uvh)/dx + d(v^2 + gh^2/2)/dy = h(-fu - gdH/dy)`
   
-  Note: `H` is the orography; a mass of some type that sits on the ocean floor.
+  Note: `H` is the orography; a mass of some type that sits on the ocean floor. The `d` in the equations represent partial derivatives.
 
 
