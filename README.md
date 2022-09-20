@@ -19,15 +19,11 @@ The Shallow Water Equations are:
   `d(uh)/dt + d(u^2h + gh^2/2)/dx + d(uvh)/dy = h(fv - gdH/dx)`
   
   `d(vh)/dt + d(uvh)/dx + d(v^2 + gh^2/2)/dy = h(-fu - gdH/dy)`
-  
 
-  
-All `d`s are partial derivatives.
-
-  *`h` = height of water from the bottom/sea floor to the sea surface.
-  *`H` = height of the orography; think of this as mass of some type on the sea floor.
-  *'g' = acceleration due to gravity.
-  *'u' = x-component of the velocity (flow) field.
-  *'v' = y-component of the velocity (flow) field.
-  *`f` = Coriolis parameter. [Coriolis parameter](https://encyclopedia2.thefreedictionary.com/Coriolis+parameter).
+  `h` = height of water from the bottom/sea floor to the sea surface.
+  `H` = height of the orography; think of this as mass of some type on the sea floor.
+  `g' = acceleration due to gravity.
+  'u' = x-component of the velocity (flow) field.
+  'v' = y-component of the velocity (flow) field.
+  `f` = Coriolis parameter. [Coriolis parameter](https://encyclopedia2.thefreedictionary.com/Coriolis+parameter).
 
