@@ -37,15 +37,15 @@ Different models can be created for different Geophysical scenarios.
 
 `1. Gravity Waves`
 
-`* orography = FLAT`
+* orography = FLAT
 * initial conditions = GAUSSIAN BLOB
 * initially geostrophic = false
 
-2. Tsunami
+`2. Tsunami`
 
 * orography = SEA MOUNT; keep the the other variables the same as above
 
-3. Barotropic Instability
+`3. Barotropic Instability`
 
 * orography = FLAT
 * initial conditions = ZONAL JET
@@ -53,7 +53,7 @@ Different models can be created for different Geophysical scenarios.
 * add random noise = true
 * initial conditions = SHARP SHEAR
 
-4. Jupiter’s Great Red Spot
+`4. Jupiter’s Great Red Spot`
 
 * orography = FLAT
 * initial conditions = SINUSOIDAL
@@ -61,13 +61,13 @@ Different models can be created for different Geophysical scenarios.
 * add random noise = true
 * NOTE: Run this model for 15 days; i.e. `forecast_length_days = 15;   % Total simulation length (days)`
 
-5. Orographic Rossby Waves
+`5. Orographic Rossby Waves`
 
 * orography = GAUSSIAN MOUNTAIN
 * initial conditions = UNIFORM WESTERLY
 * initially geostrophic = true
 
-6. Equatorially Trapped Waves
+`6. Equatorially Trapped Waves`
 
 * `f = 0.4`
 * `beta = 2.5e-11`
@@ -76,7 +76,7 @@ Different models can be created for different Geophysical scenarios.
 * add random noise = true
 * NOTE: Run this model for 15 days; i.e. `forecast_length_days = 15;   % Total simulation length (days)`
 
-7. Equatorial Kelvin Wave
+`7. Equatorial Kelvin Wave`
 
 * `f = 0`
 * `beta = 5e-10`
