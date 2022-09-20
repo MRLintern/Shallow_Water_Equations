@@ -1,7 +1,7 @@
 #### Shallow_Water_Equations
 
 Application of the Shallow Water Equations to Oceanography & Planetary Atmospheres.
-[see here](https://en.wikipedia.org/wiki/Shallow_water_equations)
+
 
 ### Requirements
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
