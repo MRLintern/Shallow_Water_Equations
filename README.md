@@ -35,9 +35,9 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
 
 Different models can be created for different Geophysical scenarios.
 
-1. Gravity Waves
+`1. Gravity Waves`
 
-* orography = FLAT
+`* orography = FLAT`
 * initial conditions = GAUSSIAN BLOB
 * initially geostrophic = false
 
