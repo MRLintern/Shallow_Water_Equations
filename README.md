@@ -1,6 +1,7 @@
 #### Shallow_Water_Equations
 
 Application of the Shallow Water Equations to Oceanography & Planetary Atmospheres.
+[see here](https://en.wikipedia.org/wiki/Shallow_water_equations)
 
 ### Requirements
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
@@ -23,10 +24,10 @@ The Shallow Water Equations are:
   
 All `d`s are partial derivatives.
 
-`h` = height of water from the bottom/sea floor to the sea surface.
-`H` = height of the orography; think of this as mass of some type on the sea floor.
-'g' = acceleration due to gravity.
-'u' = x-component of the velocity (flow) field.
-'v' = y-component of the velocity (flow) field.
-`f` = Coriolis parameter.
+*`h` = height of water from the bottom/sea floor to the sea surface.
+*`H` = height of the orography; think of this as mass of some type on the sea floor.
+*'g' = acceleration due to gravity.
+*'u' = x-component of the velocity (flow) field.
+*'v' = y-component of the velocity (flow) field.
+*`f` = Coriolis parameter. [Coriolis parameter](https://encyclopedia2.thefreedictionary.com/Coriolis+parameter).
 
