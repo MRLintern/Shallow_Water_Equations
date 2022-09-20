@@ -22,4 +22,6 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
   
   Note: `H` is the orography; a mass of some type that sits on the ocean floor. The `d` in the equations represent partial derivatives.
 
+### Running the Model
+
 
