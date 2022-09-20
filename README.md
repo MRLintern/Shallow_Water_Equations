@@ -12,18 +12,14 @@ Application of the Shallow Water Equations to Oceanography & Planetary Atmospher
 This application demostrates a number of phenomena, including gravity waves, barotropic instability, orographic Rossby waves, geostrophic turbulence,
 tsunamis and equatorially trapped waves.
 
-The Shallow Water Equations are:
+The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_equations):
 
   `dh/dt + d(uh)/dx + d(vh)/dy = 0`
   
   `d(uh)/dt + d(u^2h + gh^2/2)/dx + d(uvh)/dy = h(fv - gdH/dx)`
   
   `d(vh)/dt + d(uvh)/dx + d(v^2 + gh^2/2)/dy = h(-fu - gdH/dy)`
+  
+  Note: `H` is the orography; a mass of some type that sits on the ocean floor.
 
-  `h` = height of water from the bottom/sea floor to the sea surface.
-  `H` = height of the orography; think of this as mass of some type on the sea floor.
-  `g' = acceleration due to gravity.
-  'u' = x-component of the velocity (flow) field.
-  'v' = y-component of the velocity (flow) field.
-  `f` = Coriolis parameter. [Coriolis parameter](https://encyclopedia2.thefreedictionary.com/Coriolis+parameter).
 
