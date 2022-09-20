@@ -5,7 +5,7 @@ Numerical integration of the equations is performed via the [Lax-Wendroff Finite
 
 ### Requirements
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
-* `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB`
+* `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB` Instructions for running the models are Linux based only
 * NOTE: Knowledge of Geophysical Fluid Dynamics. This project does require you to have an understanding of the subject
 
 ### Introduction
@@ -27,7 +27,7 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
 
 1. Create a directory where the project will be placed/cloned to. E.G. `$ mkdir swe_models && cd swe_models` 
 2. `$ git clone https://github.com/MRLintern/Shallow_Water_Equations.git`
-3. Type `matlab` in a terminal to start in the directory in which the project resides.
+3. Type `matlab` at the command prompt inside the `swe_models` directory to start in the directory in which the project resides.
 4. Click on `shallow_water_model.m` and then click on the run button; top of interface.
 5. Once the program stops running, click on `animate.m` and then run the script as you did in the previous step to view the results.
 
