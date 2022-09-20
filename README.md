@@ -24,4 +24,20 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
 
 ### Running the Model
 
+1. Create a directory where the project will be placed/cloned to.
+2. $ git clone https://github.com/MRLintern/Shallow_Water_Equations.git
+3. Type `matlab` in a terminal to start in the directory in which the project resides.
+4. Click on `shallow water model.m` and then click on the run button; top of interface.
+5. Once the program stops running, click on `animate.m` and then run the script as you did in the previous step to view the results.
 
+### Models
+
+Different models can be created for different Oceanographic/Atomospheric scenarios.
+
+1. Gravity Waves
+
+* orography = FLAT
+* initial conditions = GAUSSIAN BLOB
+* initially geostrophic = false
+
+2. 
