@@ -5,7 +5,7 @@ Numerical integration of the equations is performed via the [Lax-Wendroff Finite
 
 ### Requirements
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
-* `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB`. Instructions for running the models assume you are working in Linux distribution.
+* `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB`. Instructions for running the models assume you are working in a Linux environment.
 * NOTE: Knowledge of Geophysical Fluid Dynamics. This project does require you to have an understanding of the subject
 
 ### Introduction
