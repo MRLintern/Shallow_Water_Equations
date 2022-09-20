@@ -1,7 +1,7 @@
 #### Shallow_Water_Equations
 
 Application of the Shallow Water Equations to Oceanography & Planetary Atmospheres.
-
+Numerical integration of the equations is performed via the [Lax-Wendroff Finite Difference Method](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method).
 
 ### Requirements
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
