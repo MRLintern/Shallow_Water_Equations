@@ -1,14 +1,17 @@
-#### Shallow_Water_Equations
+## Shallow_Water_Equations
+---
 
 Application of the Shallow Water Equations to Oceanography & Planetary Atmospheres.
 Numerical integration of the equations is performed via the [Lax-Wendroff Finite Difference Method](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method). 
 
 ### Requirements
+---
 * `MATLAB`. Version 2020b was used but it shouldn't matter which one you use
 * `OS`. `Ubuntu 20.04` was used however `Windows 10` will be fine. All thats needed is that you have `MATLAB`. Instructions for running the models assume you are working in a Linux environment.
 * NOTE: Knowledge of Geophysical Fluid Dynamics. This project does require you to have an understanding of the subject
 
 ### Introduction
+---
 
 This application demostrates a number of phenomena, including gravity waves, barotropic instability, orographic Rossby waves, geostrophic turbulence,
 tsunamis and equatorially trapped waves.
@@ -32,6 +35,7 @@ The [Shallow Water Equations are](https://en.wikipedia.org/wiki/Shallow_water_eq
 5. Once the program stops running, click on `animate.m` and then run the script as you did in the previous step to view the results.
 
 ### Models
+---
 
 Different models can be created for different Geophysical scenarios.
 
