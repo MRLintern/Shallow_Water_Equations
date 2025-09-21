@@ -1,7 +1,7 @@
 ## ___GeoFluidics___
 ---
 
-* Application of the Shallow Water Equations to different scenarios in Oceanography & Planetary Atmospheres.
+* Application of the ___Shallow Water Equations___ to different scenarios in __Oceanography__ & __Planetary Atmospheres__.
 * Numerical integration of the equations is performed via the [Lax-Wendroff Finite Difference Method](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method). 
 
 ### Requirements
